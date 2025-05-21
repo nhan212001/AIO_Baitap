@@ -1,3 +1,8 @@
 .venv/
 data/
+*.ubyte
+*.gz
+*.zip
+*.tar
 *.csv
+*.npy
