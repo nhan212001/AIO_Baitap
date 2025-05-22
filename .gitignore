@@ -1,5 +1,7 @@
 .venv/
+data/
 *.ubyte
 *.gz
 *.csv
 *.npy
+*.zip
