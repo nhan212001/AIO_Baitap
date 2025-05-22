@@ -1,0 +1,5 @@
+.venv/
+*.ubyte
+*.gz
+*.csv
+*.npy
